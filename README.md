@@ -1,3 +1,3 @@
 # Projeto Estoicismo
  
-https://github.com/Augusto-Mariano/Projeto-Estoicismo/Estoicismo/html/Estoicismo
+Link para acessar projeto: https://augusto-mariano.github.io/Projeto-Estoicismo/Estoicismo/html/Estoicismo
