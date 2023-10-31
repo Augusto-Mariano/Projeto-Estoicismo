@@ -38,6 +38,7 @@
    text-align: center;
    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.648);
    padding: 1.1em;
+   box-shadow: 10px 10px 10px black;
 }
 
 .header>abbr {
@@ -56,6 +57,7 @@ section {
    margin: 10vh;
    color: rgb(0, 0, 0);
    text-shadow: 0px 0px 10px rgb(255, 217, 217);
+   box-shadow: 10px 10px 10px black;
 }
 
 section>abbr {
@@ -100,7 +102,7 @@ a:hover {
 #img {
    background-color: black;
    margin: auto;
-   padding: auto;
+   padding: 70px;
 }
 
 #back1 {
@@ -108,12 +110,13 @@ a:hover {
    background-position: bottom;
    box-shadow: 10px 10px 10px black;
    background-attachment: fixed;
+   padding: auto;
 }
 
 #back2 {
    background-image: url(https://th.bing.com/th/id/OIG.pQP5sQ_rLphSmyTj0WFn?pid=ImgGn);
    background-position: top;
-   padding: 100px;
+   padding: autox;
    box-shadow: 10px 10px 10px black;
    background-attachment: fixed;
    background-repeat: no-repeat;
